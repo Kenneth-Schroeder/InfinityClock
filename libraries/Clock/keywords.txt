@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map Cube
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+StateHandler	KEYWORD1
+clockStrip	KEYWORD1
+SegDisplay	KEYWORD1
+Buttons	KEYWORD1	KEYWORD1
+DFRobotDFPlayerMini	KEYWORD1
+ComplexCounter	KEYWORD1
+soundModule	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+showTime			KEYWORD2
+setShouldDisplay	KEYWORD2
+setColors			KEYWORD2
+clearSeg			KEYWORD2
+setBrightness		KEYWORD2
+showMenuLED			KEYWORD2
+showBool			KEYWORD2
+getRelativePosition	KEYWORD2
+demo				KEYWORD2
+decreaseVolume		KEYWORD2
+increaseVolume		KEYWORD2
+getVolume			KEYWORD2
+showAll				KEYWORD2
+setLoop				KEYWORD2
+addJumpAt			KEYWORD2
+init				KEYWORD2
+setRunDemo			KEYWORD2
+playRandom			KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+time		LITERAL1
+colorTriple	LITERAL1
+LEDcolor	LITERAL1
+Rotary_State	LITERAL1
+state	LITERAL1
